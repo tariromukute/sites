@@ -1,0 +1,22 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/rank_bill_board.jpg
+  title : Quality services that exceeds the expectations 
+  content : "Our aim is to be the leader in the Events and Printing industry by providing enhanced services, relationship and profitability"
+  feature_Item : 
+    - icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      title : Graphic Design
+      content : Our Graphic Designers have vast experience in using varoius programs used in producing neat and presentable designs. We also offer graphic designing lessons to those interested.
+
+    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+      title : Paper Printing
+      content : On paper printing we do 2 types ie Digital and Litho printing. Some of our paper products are Business cards, calendars, posters, all books, Fliers and invitations.
+      
+    - icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      title : Sound Equipment
+      content : Our system is made up of quality brands which gives a crystal clear sound. We supply both Cordless (wireless) and wired microphones for each event.
+      
+    - icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      title : Signage
+      content : Refers to the production of Vinyl stickers and PVC banners to produce signs like bill boards, shop branding, vehicle branding and stickers.

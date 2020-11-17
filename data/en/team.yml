@@ -1,0 +1,50 @@
+############################### team ############################
+team:
+  enable : true
+  title : Our Team
+  team_Member :
+    # team member loop
+    - image : images/team/richard_taderera.jpg
+      name : Richard Taderera
+      designation : Operations Manager
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      social_Icon :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+    
+    # team member loop
+    - image : images/team/patience_chawuraya.jpg
+      name : Patience Chawuraya
+      designation : Finance Manager
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      social_Icon :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+
+    # team member loop
+    - image : images/team/courage_taderera.jpg
+      name : "Courage Taderera"
+      designation : Production Manager
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      social_Icon :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        

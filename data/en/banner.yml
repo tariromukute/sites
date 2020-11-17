@@ -1,0 +1,11 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_Image : "images/slider/home-page-1.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Rictades Events"
+  content : "Oasis of Excellence"
+  button:
+    enable : true
+    label : "Explore Us"
+    link : "#feature"

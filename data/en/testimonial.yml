@@ -1,0 +1,22 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  bg_Image : images/backgrounds/img-2.jpg
+  testimonial_Item :
+    # testimonial item loop
+    - name : Mr K. Gafa - Coolsplash Refrigeration
+      image : images/testimony/coolsplash_refrigeration_logo.png
+      date : Dec 26, 2018
+      content : Rictades Events created a logo for our Company and they are currently the ones supplying us with our prints requirements. On Behalf of our Company we recommend their service and we are pleased to work with them. I was also happy with their P.A System on my wedding day we had a nice day which I will never forget
+      
+    # testimonial item loop
+    - name :  Mrs A. Katerere - Lucum 24
+      image : images/testimony/locum_logo.png
+      date : Dec 26, 2018
+      content : Thank you for contributing to our success by helping us with your advertising services through differents products
+      
+    # testimonial item loop
+    - name : Mr K. Patel - Rank Zimbabwe
+      image : images/testimony/rank_logo.png
+      date : Dec 26, 2018
+      content : We are greatly pleased with Rictades Events, We do rely on them on all our signs and vehicle branding that worked best for us. They are very professional, easy to work with and very responsive. I would highly recommend them to anyone looking for their services!

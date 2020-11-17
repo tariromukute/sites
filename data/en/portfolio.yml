@@ -1,0 +1,89 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Our Works
+  filter_List :
+    - filter_Type : gifts
+      filter_Title : Corporates Gifts & Wear
+      
+    - filter_Type : printing
+      filter_Title : Paper printing
+      
+    - filter_Type : events
+      filter_Title : Event Services
+
+    - filter_Type : signage
+      filter_Title : Signage
+
+  portfolio_Item :
+    - types : ["gifts"]
+      image : images/portfolio/branded-water-500ml.jpg
+      URL : #
+      title : Branded Water 500ml
+
+    - types : ["signage"]
+      image : images/signage/vehicle-branding.jpg
+      URL : #
+      title : Vehicle Branding
+      
+    - types : ["gifts"]
+      image : images/portfolio/keyholders.jpg
+      URL : #
+      title : Keyholders
+
+    - types : ["printing"]
+      image : images/printing/business-card.jpg
+      URL : #
+      title : Business Cards
+      
+    - types : ["gifts"]
+      image : images/portfolio/lanyards-ids.jpg
+      URL : #
+      title : Lanyards & IDs
+      
+    - types : ["gifts"]
+      image : images/portfolio/metal-tray.jpg
+      URL : #
+      title : Metal Tray
+
+    - types : ["gifts"]
+      image : images/portfolio/mug_n_glasses.jpg
+      URL : #
+      title : Mugs & Glasses
+
+    - types : ["gifts"]
+      image : images/portfolio/tshirt_and_caps.jpg
+      URL : #
+      title : T-Shirts & Caps
+      
+    - types : ["events"]
+      image : images/events/events-1.JPG
+      URL : #
+      title : PA System
+
+    - types : ["gifts"]
+      image : images/portfolio/diaries.jpg
+      URL : #
+      title : Diaries
+
+    - types : ["events"]
+      image : images/portfolio/pa_system.jpg
+      URL : #
+      title : PA System
+
+      
+    - types : ["printing"]
+      image : images/printing/invoice-and-quotation-books.jpg
+      URL : #
+      title : Invoice & Quotation Books
+      
+    - types : ["signage"]
+      image : images/signage/bill-boards.jpg
+      URL : #
+      title : Bill Boards
+
+    - types : ["signage"]
+      image : images/signage/stand-alone-banner.jpg
+      URL : #
+      title : Stand Alone Banner
+    
